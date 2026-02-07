@@ -1,55 +1,51 @@
 <div align="center">
 
-# 🌟 Welcome to Óscar Sánchez Pérez's Profile 🌟
+# 🌟 Bienvenido al perfil de Óscar Sánchez Pérez 🌟
 
-<p><em>Ingeniero de plataformas y arquitecto de AI‑Ops con más de 14 años operando infraestructuras críticas en banca, retail y ciberseguridad. Mi enfoque rompe el falso dilema entre vendor lock‑in y gasto en cloud: diseño sistemas autónomos donde la fiabilidad nace de la optimización de bajo nivel y la automatización.</em></p>
+<p><em>Ingeniero de plataformas y arquitecto de AI‑Ops con más de 14 años operando infraestructuras críticas en banca, retail y ciberseguridad. Mi enfoque rompe el falso dilema entre vendor lock‑in y gasto en cloud: diseño sistemas autónomos donde la fiabilidad nace de la optimización de bajo nivel y la automatización.</em></p>
 
-<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
+<img src="https://img.shields.io/badge/Estado-Disponible_para_colaborar-brightgreen" alt="Estado" />
+<img src="https://img.shields.io/badge/Enfoque-AIOps_y_Sistemas_Autónomos-blue" alt="Enfoque" />
 
 </div>
 
 <hr>
 
-## 🔭 I'm currently working on
+## 🔭 En qué estoy trabajando
 
-<div align="center"><p>Lead Platform Architect en The Hackers Labs, donde construyo una plataforma de entrenamiento en ciberseguridad integrando Kubernetes, Terraform y modelos generativos locales como Mistral y Ollama.</p></div>
+<div align="center"><p>Lead Platform Architect en The Hackers Labs, donde construyo una plataforma de entrenamiento en ciberseguridad integrando Kubernetes, Terraform y modelos generativos locales como Mistral y Ollama.</p></div>
 
-## 🌱 I'm currently learning
+## 🌱 Lo que estoy aprendiendo
 
-<div align="center"><p>Actualmente cursando un Máster en Desarrollo con IA (Universidad Isabel I) y profundizando en optimización de modelos locales e inferencia, así como en diseño de planos de control autónomos.</p></div>
+<div align="center"><p>Actualmente cursando un Máster en Desarrollo con IA (Universidad Isabel I) y profundizando en optimización de modelos locales e inferencia, así como en diseño de planos de control autónomos.</p></div>
 
-## 👀 I'm interested in
+## 👀 Áreas de interés
 
-<div align="center"><p>AIOps, ciberseguridad, despliegue de LLMs locales, optimización de kernel y networking, telemetría predictiva, automatización con Python/Terraform/Ansible, diseño de plataformas reproducibles y soberanas.</p></div>
+<div align="center"><p>AIOps, ciberseguridad, despliegue de LLMs locales, optimización de kernel y networking, telemetría predictiva, automatización con Python/Terraform/Ansible y diseño de plataformas reproducibles y soberanas.</p></div>
 
-## 💻 Tech Stack
+## 💻 Tecnologías
 
 <div align="center">
 
-### 🎨 Frontend
+### 🧱 Núcleo
 
-<img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4">
+<img src="https://img.shields.io/badge/-Kubernetes-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-Terraform-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-Ansible-05122A?style=for-the-badge&color=9370db">
 
-### ⚙️ Backend
+### 🧠 IA y Automatización
 
-<img src="https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1">
+<img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-LLMs_Locales-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-LangChain-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-FastAPI-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-n8n-05122A?style=for-the-badge&color=00CED1">
 
-### 🚀 DevOps
+### 📊 Observabilidad
 
-<img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-GitHub Actions-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-Azure-05122A?style=for-the-badge&color=9370db">
+<img src="https://img.shields.io/badge/-Grafana-05122A?style=for-the-badge&color=3cb371"> <img src="https://img.shields.io/badge/-Prometheus-05122A?style=for-the-badge&color=3cb371"> <img src="https://img.shields.io/badge/-InfluxDB-05122A?style=for-the-badge&color=3cb371"> <img src="https://img.shields.io/badge/-ELK-05122A?style=for-the-badge&color=3cb371"> <img src="https://img.shields.io/badge/-Netdata-05122A?style=for-the-badge&color=3cb371">
 
-### 🧠 AI/ML
+### 🛠 Otros
 
-<img src="https://img.shields.io/badge/-PyTorch-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-OpenCV-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Hugging Face-05122A?style=for-the-badge&color=00CED1">
-
-### 💬 Languages
-
-<img src="https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500">
+<img src="https://img.shields.io/badge/-Bash-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-PowerShell-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-ServiceNow-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-SQL_Server_Always_On-05122A?style=for-the-badge&color=FFA500">
 
 </div>
 
-## 🌐 Socials
+## 🌐 Redes
 
 <div align="center">
 
@@ -57,21 +53,19 @@
 
 </div>
 
-## 📫 How to reach me
+## 📫 Cómo contactarme
 
 <div align="center">
 
-**Email:** oscaarsanchez90@gmail.com
+**Correo:** oscaarsanchez90@gmail.com
 
 </div>
 
 <div align="center">
 
-<!-- ⚠️ Important: Replace 'oscaar90' with your actual GitHub username in the URLs below -->
-<img src="https://komarev.com/ghpvc/?username=oscaar90&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=oscaar90&style=for-the-badge&color=blueviolet" alt="Visitas al perfil"/>
+<img src="https://img.shields.io/github/followers/oscaar90?style=for-the-badge&color=ff69b4" alt="Seguidores"/>
 
-<img src="https://img.shields.io/github/followers/oscaar90?style=for-the-badge&color=ff69b4" alt="Followers"/>
-
-<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+<p>🌈 <i>¡Conectemos y construyamos cosas increíbles juntos!</i> 🚀</p>
 
 </div>
