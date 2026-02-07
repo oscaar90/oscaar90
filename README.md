@@ -1,39 +1,77 @@
-🚀 Óscar Sánchez – Ingeniería que rompe moldes
+<div align="center">
 
-Lead Platform Engineer · AIOps & Autonomous Systems
+# 🌟 Welcome to Óscar Sánchez Pérez's Profile 🌟
 
-«La fiabilidad no se compra, se diseña.»
+<p><em>Ingeniero de plataformas y arquitecto de AI‑Ops con más de 14 años operando infraestructuras críticas en banca, retail y ciberseguridad. Mi enfoque rompe el falso dilema entre vendor lock‑in y gasto en cloud: diseño sistemas autónomos donde la fiabilidad nace de la optimización de bajo nivel y la automatización.</em></p>
 
-Construyo plataformas que se mantienen solas y sacan todo el jugo al hardware soberano. Tras más de 14 años en banca, retail y ciberseguridad, he aprendido a convertir la complejidad en sistemas autónomos, observables y optimizados. Si tu stack depende de proveedores cerrados o de quemar presupuesto en cloud, algo va mal.
+<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
 
-Lo que hago
+</div>
 
-💡 Acelero la inferencia desplegando LLMs locales (Mistral, Ollama) en Kubernetes para validar datos y curar sistemas sin latencia ni dependencias.
+<hr>
 
-📊 Veo lo que otros no ven : telemetría proactiva con Grafana/InfluxDB para detectar cuellos de botella y ajustar el kernel y el throughput.
+## 🔭 I'm currently working on
 
-🧰 Automatizo TODO : Python, Terraform y Ansible para crear entornos deterministas; si hay que intervenir a mano, lo considero deuda técnica.
+<div align="center"><p>Lead Platform Architect en The Hackers Labs, donde construyo una plataforma de entrenamiento en ciberseguridad integrando Kubernetes, Terraform y modelos generativos locales como Mistral y Ollama.</p></div>
 
-🧠 Diseño sistemas autónomos que reducen la carga cognitiva del equipo y anticipan fallos antes de que ocurran.
+## 🌱 I'm currently learning
 
-Experiencia en 3 líneas
+<div align="center"><p>Actualmente cursando un Máster en Desarrollo con IA (Universidad Isabel I) y profundizando en optimización de modelos locales e inferencia, así como en diseño de planos de control autónomos.</p></div>
 
-2024-Hoy · The Hackers Labs: plataforma de entrenamiento con IA generativa y laboratorios Red/Blue auto‑desplegables.
+## 👀 I'm interested in
 
-2022-2025 · ALDI España: stack AIOps predictivo para Oracle/SAP, automatización que liberó +50 h/mes y reducción brutal del MTTR.
+<div align="center"><p>AIOps, ciberseguridad, despliegue de LLMs locales, optimización de kernel y networking, telemetría predictiva, automatización con Python/Terraform/Ansible, diseño de plataformas reproducibles y soberanas.</p></div>
 
-2021-2022 · Logicalis: telemetría avanzada y HA para banca; provisión automática de servidores y diagnósticos a nivel kernel.
+## 💻 Tech Stack
 
-Tecnologías
+<div align="center">
 
-Kubernetes · Linux/Kernel · Docker · Terraform · Ansible · Python · LLMs locales · LangChain · FastAPI · Grafana/Prometheus/InfluxDB · n8n · ServiceNow.
+### 🎨 Frontend
 
-Conecta
+<img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4">
 
-🌐 oscarai.tech
- · 🔗 LinkedIn
- · 💌 oscaarsanchez90@gmail.com
- · 🐙 GitHub
-.
+### ⚙️ Backend
 
-DevOps de manual no, gracias. Aquí nos dedicamos a entender el kernel, anticipar fallos y automatizarlo todo.
+<img src="https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1">
+
+### 🚀 DevOps
+
+<img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-GitHub Actions-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-Azure-05122A?style=for-the-badge&color=9370db">
+
+### 🧠 AI/ML
+
+<img src="https://img.shields.io/badge/-PyTorch-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-OpenCV-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Hugging Face-05122A?style=for-the-badge&color=00CED1">
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500">
+
+</div>
+
+## 🌐 Socials
+
+<div align="center">
+
+<a href="https://github.com/oscaar90"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/oscar-sanchez-perez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> 
+
+</div>
+
+## 📫 How to reach me
+
+<div align="center">
+
+**Email:** oscaarsanchez90@gmail.com
+
+</div>
+
+<div align="center">
+
+<!-- ⚠️ Important: Replace 'oscaar90' with your actual GitHub username in the URLs below -->
+<img src="https://komarev.com/ghpvc/?username=oscaar90&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+<img src="https://img.shields.io/github/followers/oscaar90?style=for-the-badge&color=ff69b4" alt="Followers"/>
+
+<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+
+</div>
